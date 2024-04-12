@@ -1,0 +1,1 @@
+Today i learned how to use loops (for and while) and conditional operators (if, elif, else). Wrote a program that counts the number of letters.
